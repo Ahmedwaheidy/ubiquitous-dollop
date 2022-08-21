@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "nodej",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "engines": {
+    "node": "16.16.0",
+    "npm": "8.11.0"
+  }
+}
